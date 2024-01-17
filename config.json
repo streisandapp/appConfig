@@ -1,6 +1,6 @@
 {
   "ads": {
-    "enable": "false",
+    "enable": "true",
     "tunnel": false
   }
 }
