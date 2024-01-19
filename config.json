@@ -1,6 +1,7 @@
 {
   "ads": {
     "enable": "true",
-    "tunnel": false
+    "tunnel": false,
+    "interval": 60
   }
 }
