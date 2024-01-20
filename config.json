@@ -1,6 +1,6 @@
 {
   "ads": {
-    "enable": "random",
+    "enable": "false",
     "tunnel": false,
     "interval": 60
   }
