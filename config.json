@@ -1,7 +1,7 @@
 {
   "ads": {
-    "enable": "false",
-    "tunnel": false,
+    "enable": "random",
+    "tunnel": true,
     "interval": 60
   }
 }
