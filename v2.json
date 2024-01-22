@@ -1,6 +1,6 @@
 {
   "ads": {
-    "enable": "true",
+    "enable": "false",
     "onOpen": "true",
     "tunnel": "true",
     "interval": 5,
