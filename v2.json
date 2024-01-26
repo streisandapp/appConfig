@@ -3,7 +3,7 @@
     "enable": "true",
     "onOpen": "true",
     "tunnel": "true",
-    "interval": 300,
-    "unitInterval": 600
+    "interval": 30,
+    "unitInterval": 60
   }
 }
