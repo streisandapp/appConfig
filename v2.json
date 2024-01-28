@@ -4,6 +4,7 @@
     "onOpen": "true",
     "tunnel": "false",
     "interval": 32,
-    "unitInterval": 64
+    "unitInterval": 64,
+    "excluded": []
   }
 }
