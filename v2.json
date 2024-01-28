@@ -2,7 +2,7 @@
   "ads": {
     "enable": "true",
     "onOpen": "true",
-    "tunnel": "true",
+    "tunnel": "false",
     "interval": 32,
     "unitInterval": 64
   }
