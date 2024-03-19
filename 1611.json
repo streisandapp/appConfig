@@ -3,7 +3,7 @@
     "enable": "100",
     "onOpen": "0",
     "tunnel": "100",
-    "interval": 3600,
+    "interval": 5400,
     "unitInterval": 64,
     "excluded": []
   }
