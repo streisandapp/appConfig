@@ -1,6 +1,6 @@
 {
   "ads": {
-    "enable": "100",
+    "enable": "90",
     "onOpen": "0",
     "tunnel": "100",
     "interval": 7200,
